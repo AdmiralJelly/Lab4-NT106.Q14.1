@@ -1,0 +1,38 @@
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\bin\Debug\net8.0-windows\Bai5.exe
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\bin\Debug\net8.0-windows\Bai5.deps.json
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\bin\Debug\net8.0-windows\Bai5.runtimeconfig.json
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\bin\Debug\net8.0-windows\Bai5.dll
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\bin\Debug\net8.0-windows\Bai5.pdb
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.AssemblyReference.cache
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.GenerateResource.cache
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.AssemblyInfoInputs.cache
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.AssemblyInfo.cs
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.Up2Date
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.dll
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\refint\Bai5.dll
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.pdb
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.genruntimeconfig.cache
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\ref\Bai5.dll
+C:\Users\bewoo\Desktop\Lab4\Lab4\Bai5\obj\Debug\net8.0-windows\Bai5.Bai5_Form.resources
+C:\Users\bewoo\Desktop\New folder\Bai5\bin\Debug\net8.0-windows\Bai5.exe
+C:\Users\bewoo\Desktop\New folder\Bai5\bin\Debug\net8.0-windows\Bai5.deps.json
+C:\Users\bewoo\Desktop\New folder\Bai5\bin\Debug\net8.0-windows\Bai5.runtimeconfig.json
+C:\Users\bewoo\Desktop\New folder\Bai5\bin\Debug\net8.0-windows\Bai5.dll
+C:\Users\bewoo\Desktop\New folder\Bai5\bin\Debug\net8.0-windows\Bai5.pdb
+C:\Users\bewoo\Desktop\New folder\Bai5\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.AssemblyReference.cache
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.Bai5_Form.resources
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.GenerateResource.cache
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.AssemblyInfoInputs.cache
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.AssemblyInfo.cs
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.csproj.Up2Date
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.dll
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\refint\Bai5.dll
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.pdb
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\Bai5.genruntimeconfig.cache
+C:\Users\bewoo\Desktop\New folder\Bai5\obj\Debug\net8.0-windows\ref\Bai5.dll
