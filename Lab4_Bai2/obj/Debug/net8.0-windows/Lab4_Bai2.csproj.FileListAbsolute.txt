@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Lab4_Bai2\bin\Debug\net8.0-windows\Lab4_Bai2.exe
+C:\Users\Admin\Desktop\Lab4_Bai2\bin\Debug\net8.0-windows\Lab4_Bai2.deps.json
+C:\Users\Admin\Desktop\Lab4_Bai2\bin\Debug\net8.0-windows\Lab4_Bai2.runtimeconfig.json
+C:\Users\Admin\Desktop\Lab4_Bai2\bin\Debug\net8.0-windows\Lab4_Bai2.dll
+C:\Users\Admin\Desktop\Lab4_Bai2\bin\Debug\net8.0-windows\Lab4_Bai2.pdb
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.Form1.resources
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.dll
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\refint\Lab4_Bai2.dll
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.pdb
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\Lab4_Bai2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Lab4_Bai2\obj\Debug\net8.0-windows\ref\Lab4_Bai2.dll
