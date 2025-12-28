@@ -3,4 +3,7 @@
   <Project Path="Bai5/Bai5.csproj" Id="2f2f775d-aadb-40e6-80d0-b8aa77668ad4" />
   <Project Path="Bai6/Bai6.csproj" Id="cf36659f-a336-4129-9fa2-b107724260b5" />
   <Project Path="Bai7/Bai7.csproj" Id="2124bf03-30ff-4b96-aabb-30dd8a1c7a02" />
+  <Project Path="Lab4_Bai1/Lab4_Bai1.csproj" />
+  <Project Path="Lab4_Bai2/Lab4_Bai2.csproj" />
+  <Project Path="Lab4_Bai3/Lab4_Bai3.csproj" />
 </Solution>

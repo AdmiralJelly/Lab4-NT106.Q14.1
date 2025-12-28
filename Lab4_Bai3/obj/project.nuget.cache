@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1PGK8ZOI5M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\Lab4-NT106.Q14.1\\Lab4_Bai3\\Lab4_Bai3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.web.webview2\\1.0.3595.46\\microsoft.web.webview2.1.0.3595.46.nupkg.sha512"
+  ],
+  "logs": []
+}
